@@ -1,0 +1,1035 @@
+[
+  {
+    "name": "STC",
+    "country": "المملكة العربية السعودية",
+    "mcc_mnc": "42001",
+    "bands_4g": ["B1", "B3", "B8", "B28", "B40"],
+    "bands_5g": ["N28", "N40", "N71", "N77", "N78"],
+    "fast": [
+      "(4G)B1P+B3S+B8S+B28S+B40S(5G)N77P",
+      "(4G)B3P+B1S+B8S+B28S+B40S(5G)N77P",
+      "(4G)B28P+B1S+B8S+B3S+B40S(5G)N77P",
+      "(4G)B8P+B1S+B28S+B3S+B40S(5G)N77P",
+      "(4G)B1P+B3S+B8S+B28S+B40S(5G)N78P+N40S",
+      "(4G)B3P+B1S+B8S+B28S+B40S(5G)N78P+N40S",
+      "(4G)B28P+B1S+B8S+B3S+B40S(5G)N78P+N40S",
+      "(4G)B8P+B1S+B28S+B3S+B40S(5G)N78P+N40S",
+      "(4G)B1P+B3S+B8S+B28S+B40S(5G)N40P+N78S",
+      "(4G)B3P+B1S+B8S+B28S+B40S(5G)N40P+N78S",
+      "(4G)B28P+B1S+B8S+B3S+B40S(5G)N40P+N78S",
+      "(4G)B8P+B1S+B28S+B3S+B40S(5G)N40P+N78S"
+    ],
+    "medium": [
+      "(4G)B1P+B3S+B8S+B28S+B40S(5G)N77P",
+      "(4G)B3P+B1S+B8S+B28S+B40S(5G)N77P",
+      "(4G)B28P+B1S+B8S+B3S+B40S(5G)N77P",
+      "(4G)B8P+B1S+B28S+B3S+B40S(5G)N77P",
+      "(4G)B1P+B3S+B8S+B28S+B40S(5G)N78P+N40S",
+      "(4G)B3P+B1S+B8S+B28S+B40S(5G)N78P+N40S",
+      "(4G)B28P+B1S+B8S+B3S+B40S(5G)N78P+N40S",
+      "(4G)B8P+B1S+B28S+B3S+B40S(5G)N78P+N40S",
+      "(4G)B1P+B3S+B8S+B28S+B40S(5G)N40P+N78S",
+      "(4G)B3P+B1S+B8S+B28S+B40S(5G)N40P+N78S",
+      "(4G)B28P+B1S+B8S+B3S+B40S(5G)N40P+N78S",
+      "(4G)B8P+B1S+B28S+B3S+B40S(5G)N40P+N78S"
+    ],
+    "deep": [
+      "(4G)B1P+B3S+B28S(5G)N77P",
+      "(4G)B3P+B1S+B28S(5G)N77P",
+      "(4G)B28P+B1S+B3S(5G)N77P",
+      "(4G)B1P+B3S+B28S(5G)N78P",
+      "(4G)B3P+B1S+B28S(5G)N78P",
+      "(4G)B28P+B1S+B3S(5G)N78P",
+      "(4G)B1P+B3S+B28S(5G)N40P",
+      "(4G)B3P+B1S+B28S(5G)N40P",
+      "(4G)B28P+B1S+B3S(5G)N40P",
+      "(4G)B1P+B3S+B8S+B28S+B40S(5G)N77P",
+      "(4G)B3P+B1S+B8S+B28S+B40S(5G)N77P",
+      "(4G)B28P+B1S+B8S+B3S+B40S(5G)N77P",
+      "(4G)B8P+B1S+B28S+B3S+B40S(5G)N77P",
+      "(4G)B1P+B3S+B8S+B28S+B40S(5G)N78P+N40S",
+      "(4G)B3P+B1S+B8S+B28S+B40S(5G)N78P+N40S",
+      "(4G)B28P+B1S+B8S+B3S+B40S(5G)N78P+N40S",
+      "(4G)B8P+B1S+B28S+B3S+B40S(5G)N78P+N40S",
+      "(4G)B1P+B3S+B8S+B28S+B40S(5G)N40P+N78S",
+      "(4G)B3P+B1S+B8S+B28S+B40S(5G)N40P+N78S",
+      "(4G)B28P+B1S+B8S+B3S+B40S(5G)N40P+N78S",
+      "(4G)B8P+B1S+B28S+B3S+B40S(5G)N40P+N78S"
+    ]
+  },
+  {
+    "name": "Mobily",
+    "country": "المملكة العربية السعودية",
+    "mcc_mnc": "42003",
+    "bands_4g": ["B1", "B3", "B20", "B38", "B41"],
+    "bands_5g": ["N28", "N41", "N77", "N78"],
+    "fast": [
+      "(4G)B1P+B3S+B20S+B38S+B41S(5G)N77P",
+      "(4G)B3P+B1S+B20S+B38S+B41S(5G)N77P",
+      "(4G)B20P+B1S+B3S+B38S+B41S(5G)N77P",
+      "(4G)B20S+B1S+B3S+B38P+B41S(5G)N77P",
+      "(4G)B20S+B1S+B3S+B38S+B41P(5G)N77P",
+      "(4G)B1P+B3S+B20S+B38S+B41S(5G)N78P+N41S",
+      "(4G)B3P+B1S+B20S+B38S+B41S(5G)N78P+N41S",
+      "(4G)B20P+B1S+B3S+B38S+B41S(5G)N78P+N41S",
+      "(4G)B20S+B1S+B3S+B38P+B41S(5G)N78P+N41S",
+      "(4G)B20S+B1S+B3S+B38S+B41P(5G)N78P+N41S",
+      "(4G)B1P+B3S+B20S+B38S+B41S(5G)N78S+N41P",
+      "(4G)B3P+B1S+B20S+B38S+B41S(5G)N78S+N41P",
+      "(4G)B20P+B1S+B3S+B38S+B41S(5G)N78S+N41P",
+      "(4G)B20S+B1S+B3S+B38P+B41S(5G)N78S+N41P",
+      "(4G)B20S+B1S+B3S+B38S+B41P(5G)N78S+N41P",
+      "(4G)B1P+B3S+B20S+B38S+B41S(5G)N28P",
+      "(4G)B3P+B1S+B20S+B38S+B41S(5G)N28P",
+      "(4G)B20P+B1S+B3S+B38S+B41S(5G)N28P",
+      "(4G)B20S+B1S+B3S+B38P+B41S(5G)N28P",
+      "(4G)B20S+B1S+B3S+B38S+B41P(5G)N28P"
+    ],
+    "medium": [
+      "(4G)B1P+B3S+B20S+B38S+B41S(5G)N77P",
+      "(4G)B3P+B1S+B20S+B38S+B41S(5G)N77P",
+      "(4G)B20P+B1S+B3S+B38S+B41S(5G)N77P",
+      "(4G)B20S+B1S+B3S+B38P+B41S(5G)N77P",
+      "(4G)B20S+B1S+B3S+B38S+B41P(5G)N77P",
+      "(4G)B1P+B3S+B20S+B38S+B41S(5G)N78P+N41S",
+      "(4G)B3P+B1S+B20S+B38S+B41S(5G)N78P+N41S",
+      "(4G)B20P+B1S+B3S+B38S+B41S(5G)N78P+N41S",
+      "(4G)B20S+B1S+B3S+B38P+B41S(5G)N78P+N41S",
+      "(4G)B20S+B1S+B3S+B38S+B41P(5G)N78P+N41S",
+      "(4G)B1P+B3S+B20S+B38S+B41S(5G)N78S+N41P",
+      "(4G)B3P+B1S+B20S+B38S+B41S(5G)N78S+N41P",
+      "(4G)B20P+B1S+B3S+B38S+B41S(5G)N78S+N41P",
+      "(4G)B20S+B1S+B3S+B38P+B41S(5G)N78S+N41P",
+      "(4G)B20S+B1S+B3S+B38S+B41P(5G)N78S+N41P",
+      "(4G)B1P+B3S+B20S+B38S+B41S(5G)N28P",
+      "(4G)B3P+B1S+B20S+B38S+B41S(5G)N28P",
+      "(4G)B20P+B1S+B3S+B38S+B41S(5G)N28P",
+      "(4G)B20S+B1S+B3S+B38P+B41S(5G)N28P",
+      "(4G)B20S+B1S+B3S+B38S+B41P(5G)N28P"
+    ],
+    "deep": [
+      "(4G)B1P+B3S+B20S+B38S+B41S(5G)N77P",
+      "(4G)B3P+B1S+B20S+B38S+B41S(5G)N77P",
+      "(4G)B20P+B1S+B3S+B38S+B41S(5G)N77P",
+      "(4G)B20S+B1S+B3S+B38P+B41S(5G)N77P",
+      "(4G)B20S+B1S+B3S+B38S+B41P(5G)N77P",
+      "(4G)B1P+B3S+B20S+B38S+B41S(5G)N78P+N41S",
+      "(4G)B3P+B1S+B20S+B38S+B41S(5G)N78P+N41S",
+      "(4G)B20P+B1S+B3S+B38S+B41S(5G)N78P+N41S",
+      "(4G)B20S+B1S+B3S+B38P+B41S(5G)N78P+N41S",
+      "(4G)B20S+B1S+B3S+B38S+B41P(5G)N78P+N41S",
+      "(4G)B1P+B3S+B20S+B38S+B41S(5G)N78S+N41P",
+      "(4G)B3P+B1S+B20S+B38S+B41S(5G)N78S+N41P",
+      "(4G)B20P+B1S+B3S+B38S+B41S(5G)N78S+N41P",
+      "(4G)B20S+B1S+B3S+B38P+B41S(5G)N78S+N41P",
+      "(4G)B20S+B1S+B3S+B38S+B41P(5G)N78S+N41P",
+      "(4G)B1P+B3S+B20S+B38S+B41S(5G)N28P",
+      "(4G)B3P+B1S+B20S+B38S+B41S(5G)N28P",
+      "(4G)B20P+B1S+B3S+B38S+B41S(5G)N28P",
+      "(4G)B20S+B1S+B3S+B38P+B41S(5G)N28P",
+      "(4G)B20S+B1S+B3S+B38S+B41P(5G)N28P"
+    ]
+  },
+  {
+    "name": "Zain KSA",
+    "country": "المملكة العربية السعودية",
+    "mcc_mnc": "42004",
+    "bands_4g": ["B1", "B3", "B8", "B20", "B38"],
+    "bands_5g": ["N41", "N71", "N78"],
+    "fast": [
+      "(4G)B1P+B3S+B8S+B20S+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3P+B8S+B20S+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3S+B8P+B20S+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3S+B8S+B20P+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3S+B8S+B20S+B38P(5G)N78P+N41S",
+      "(4G)B1P+B3S+B8S+B20S+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3P+B8S+B20S+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3S+B8P+B20S+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3S+B8S+B20P+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3S+B8S+B20S+B38P(5G)N78S+N41P",
+      "(4G)B1P+B3S+B8S+B20S+B38S(5G)N71P",
+      "(4G)B1S+B3P+B8S+B20S+B38S(5G)N71P",
+      "(4G)B1S+B3S+B8P+B20S+B38S(5G)N71P",
+      "(4G)B1S+B3S+B8S+B20P+B38S(5G)N71P",
+      "(4G)B1S+B3S+B8S+B20S+B38P(5G)N71P"
+    ],
+    "medium": [
+      "(4G)B1P+B3S+B8S+B20S+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3P+B8S+B20S+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3S+B8P+B20S+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3S+B8S+B20P+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3S+B8S+B20S+B38P(5G)N78P+N41S",
+      "(4G)B1P+B3S+B8S+B20S+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3P+B8S+B20S+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3S+B8P+B20S+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3S+B8S+B20P+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3S+B8S+B20S+B38P(5G)N78S+N41P",
+      "(4G)B1P+B3S+B8S+B20S+B38S(5G)N71P",
+      "(4G)B1S+B3P+B8S+B20S+B38S(5G)N71P",
+      "(4G)B1S+B3S+B8P+B20S+B38S(5G)N71P",
+      "(4G)B1S+B3S+B8S+B20P+B38S(5G)N71P",
+      "(4G)B1S+B3S+B8S+B20S+B38P(5G)N71P"
+    ],
+    "deep": [
+      "(4G)B1P+B3S+B8S+B20S+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3P+B8S+B20S+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3S+B8P+B20S+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3S+B8S+B20P+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3S+B8S+B20S+B38P(5G)N78P+N41S",
+      "(4G)B1P+B3S+B8S+B20S+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3P+B8S+B20S+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3S+B8P+B20S+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3S+B8S+B20P+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3S+B8S+B20S+B38P(5G)N78S+N41P",
+      "(4G)B1P+B3S+B8S+B20S+B38S(5G)N71P",
+      "(4G)B1S+B3P+B8S+B20S+B38S(5G)N71P",
+      "(4G)B1S+B3S+B8P+B20S+B38S(5G)N71P",
+      "(4G)B1S+B3S+B8S+B20P+B38S(5G)N71P",
+      "(4G)B1S+B3S+B8S+B20S+B38P(5G)N71P"
+    ]
+  },
+  {
+    "name": "Salam KSA",
+    "country": "المملكة العربية السعودية",
+    "mcc_mnc": "42009",
+    "bands_4g": ["B1", "B3", "B8", "B20", "B38"],
+    "bands_5g": ["N41", "N71", "N78"],
+    "fast": [
+      "(4G)B1P+B3S+B8S+B20S+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3P+B8S+B20S+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3S+B8P+B20S+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3S+B8S+B20P+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3S+B8S+B20S+B38P(5G)N78P+N41S",
+      "(4G)B1P+B3S+B8S+B20S+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3P+B8S+B20S+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3S+B8P+B20S+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3S+B8S+B20P+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3S+B8S+B20S+B38P(5G)N78S+N41P",
+      "(4G)B1P+B3S+B8S+B20S+B38S(5G)N71P",
+      "(4G)B1S+B3P+B8S+B20S+B38S(5G)N71P",
+      "(4G)B1S+B3S+B8P+B20S+B38S(5G)N71P",
+      "(4G)B1S+B3S+B8S+B20P+B38S(5G)N71P",
+      "(4G)B1S+B3S+B8S+B20S+B38P(5G)N71P"
+    ],
+    "medium": [
+      "(4G)B1P+B3S+B8S+B20S+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3P+B8S+B20S+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3S+B8P+B20S+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3S+B8S+B20P+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3S+B8S+B20S+B38P(5G)N78P+N41S",
+      "(4G)B1P+B3S+B8S+B20S+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3P+B8S+B20S+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3S+B8P+B20S+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3S+B8S+B20P+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3S+B8S+B20S+B38P(5G)N78S+N41P",
+      "(4G)B1P+B3S+B8S+B20S+B38S(5G)N71P",
+      "(4G)B1S+B3P+B8S+B20S+B38S(5G)N71P",
+      "(4G)B1S+B3S+B8P+B20S+B38S(5G)N71P",
+      "(4G)B1S+B3S+B8S+B20P+B38S(5G)N71P",
+      "(4G)B1S+B3S+B8S+B20S+B38P(5G)N71P"
+    ],
+    "deep": [
+      "(4G)B1P+B3S+B8S+B20S+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3P+B8S+B20S+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3S+B8P+B20S+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3S+B8S+B20P+B38S(5G)N78P+N41S",
+      "(4G)B1S+B3S+B8S+B20S+B38P(5G)N78P+N41S",
+      "(4G)B1P+B3S+B8S+B20S+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3P+B8S+B20S+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3S+B8P+B20S+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3S+B8S+B20P+B38S(5G)N78S+N41P",
+      "(4G)B1S+B3S+B8S+B20S+B38P(5G)N78S+N41P",
+      "(4G)B1P+B3S+B8S+B20S+B38S(5G)N71P",
+      "(4G)B1S+B3P+B8S+B20S+B38S(5G)N71P",
+      "(4G)B1S+B3S+B8P+B20S+B38S(5G)N71P",
+      "(4G)B1S+B3S+B8S+B20P+B38S(5G)N71P",
+      "(4G)B1S+B3S+B8S+B20S+B38P(5G)N71P"
+    ]
+  },
+  {
+    "name": "Virgin",
+    "country": "المملكة العربية السعودية",
+    "mcc_mnc": "42005",
+    "bands_4g": ["B1", "B3", "B8", "B28", "B40"],
+    "bands_5g": ["N28", "N40", "N71", "N77", "N78"],
+    "fast": [
+      "(4G)B1P+B3S+B8S+B28S+B40S(5G)N77P",
+      "(4G)B3P+B1S+B8S+B28S+B40S(5G)N77P",
+      "(4G)B28P+B1S+B8S+B3S+B40S(5G)N77P",
+      "(4G)B8P+B1S+B28S+B3S+B40S(5G)N77P",
+      "(4G)B1P+B3S+B8S+B28S+B40S(5G)N78P+N40S",
+      "(4G)B3P+B1S+B8S+B28S+B40S(5G)N78P+N40S",
+      "(4G)B28P+B1S+B8S+B3S+B40S(5G)N78P+N40S",
+      "(4G)B8P+B1S+B28S+B3S+B40S(5G)N78P+N40S",
+      "(4G)B1P+B3S+B8S+B28S+B40S(5G)N40P+N78S",
+      "(4G)B3P+B1S+B8S+B28S+B40S(5G)N40P+N78S",
+      "(4G)B28P+B1S+B8S+B3S+B40S(5G)N40P+N78S",
+      "(4G)B8P+B1S+B28S+B3S+B40S(5G)N40P+N78S"
+    ],
+    "medium": [
+      "(4G)B1P+B3S+B8S+B28S+B40S(5G)N77P",
+      "(4G)B3P+B1S+B8S+B28S+B40S(5G)N77P",
+      "(4G)B28P+B1S+B8S+B3S+B40S(5G)N77P",
+      "(4G)B8P+B1S+B28S+B3S+B40S(5G)N77P",
+      "(4G)B1P+B3S+B8S+B28S+B40S(5G)N78P+N40S",
+      "(4G)B3P+B1S+B8S+B28S+B40S(5G)N78P+N40S",
+      "(4G)B28P+B1S+B8S+B3S+B40S(5G)N78P+N40S",
+      "(4G)B8P+B1S+B28S+B3S+B40S(5G)N78P+N40S",
+      "(4G)B1P+B3S+B8S+B28S+B40S(5G)N40P+N78S",
+      "(4G)B3P+B1S+B8S+B28S+B40S(5G)N40P+N78S",
+      "(4G)B28P+B1S+B8S+B3S+B40S(5G)N40P+N78S",
+      "(4G)B8P+B1S+B28S+B3S+B40S(5G)N40P+N78S"
+    ],
+    "deep": [
+      "(4G)B1P+B3S+B28S(5G)N77P",
+      "(4G)B3P+B1S+B28S(5G)N77P",
+      "(4G)B28P+B1S+B3S(5G)N77P",
+      "(4G)B1P+B3S+B28S(5G)N78P",
+      "(4G)B3P+B1S+B28S(5G)N78P",
+      "(4G)B28P+B1S+B3S(5G)N78P",
+      "(4G)B1P+B3S+B28S(5G)N40P",
+      "(4G)B3P+B1S+B28S(5G)N40P",
+      "(4G)B28P+B1S+B3S(5G)N40P",
+      "(4G)B1P+B3S+B8S+B28S+B40S(5G)N77P",
+      "(4G)B3P+B1S+B8S+B28S+B40S(5G)N77P",
+      "(4G)B28P+B1S+B8S+B3S+B40S(5G)N77P",
+      "(4G)B8P+B1S+B28S+B3S+B40S(5G)N77P",
+      "(4G)B1P+B3S+B8S+B28S+B40S(5G)N78P+N40S",
+      "(4G)B3P+B1S+B8S+B28S+B40S(5G)N78P+N40S",
+      "(4G)B28P+B1S+B8S+B3S+B40S(5G)N78P+N40S",
+      "(4G)B8P+B1S+B28S+B3S+B40S(5G)N78P+N40S",
+      "(4G)B1P+B3S+B8S+B28S+B40S(5G)N40P+N78S",
+      "(4G)B3P+B1S+B8S+B28S+B40S(5G)N40P+N78S",
+      "(4G)B28P+B1S+B8S+B3S+B40S(5G)N40P+N78S",
+      "(4G)B8P+B1S+B28S+B3S+B40S(5G)N40P+N78S"
+    ]
+  },
+  {
+    "name": "Etisalat (e&)",
+    "country": "الإمارات العربية المتحدة",
+    "mcc_mnc": "42402",
+    "bands_4g": ["B3", "B7", "B20", "B40", "B42"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "du",
+    "country": "الإمارات العربية المتحدة",
+    "mcc_mnc": "42403",
+    "bands_4g": ["B1", "B3", "B7", "B20", "B40"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Ooredoo Qatar",
+    "country": "قطر",
+    "mcc_mnc": "42701",
+    "bands_4g": ["B3", "B7", "B20"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Vodafone Qatar",
+    "country": "قطر",
+    "mcc_mnc": "42702",
+    "bands_4g": ["B3", "B7", "B20"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Zain Kuwait",
+    "country": "الكويت",
+    "mcc_mnc": "41902",
+    "bands_4g": ["B1", "B3", "B8", "B20", "B38"],
+    "bands_5g": ["N1", "N3", "N8", "N20", "N41", "N78"]
+  },
+  {
+    "name": "Ooredoo Kuwait",
+    "country": "الكويت",
+    "mcc_mnc": "41903",
+    "bands_4g": ["B1", "B3", "B8", "B20", "B40"],
+    "bands_5g": ["N1", "N3", "N8", "N20", "N40", "N78"]
+  },
+  {
+    "name": "STC Kuwait",
+    "country": "الكويت",
+    "mcc_mnc": "41904",
+    "bands_4g": ["B1", "B3", "B8", "B28", "B38"],
+    "bands_5g": ["N1", "N3", "N8", "N20", "N41", "N78"]
+  },
+  {
+    "name": "Batelco",
+    "country": "البحرين",
+    "mcc_mnc": "42601",
+    "bands_4g": ["B3"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "stc Bahrain",
+    "country": "البحرين",
+    "mcc_mnc": "42604",
+    "bands_4g": ["B1", "B3", "B20", "B41"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Zain Bahrain",
+    "country": "البحرين",
+    "mcc_mnc": "42602",
+    "bands_4g": ["B3"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Omantel",
+    "country": "عُمان",
+    "mcc_mnc": "42202",
+    "bands_4g": ["B1", "B3", "B8", "B20"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Ooredoo Oman",
+    "country": "عُمان",
+    "mcc_mnc": "42203",
+    "bands_4g": ["B3", "B7", "B20", "B40"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Zain Jordan",
+    "country": "الأردن",
+    "mcc_mnc": "41601",
+    "bands_4g": ["B1", "B3", "B8", "B28"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Orange Jordan",
+    "country": "الأردن",
+    "mcc_mnc": "41601",
+    "bands_4g": ["B1", "B3", "B8"],
+    "bands_5g": []
+  },
+  {
+    "name": "Umniah",
+    "country": "الأردن",
+    "mcc_mnc": "41603",
+    "bands_4g": ["B3", "B8"],
+    "bands_5g": []
+  },
+  {
+    "name": "Alfa",
+    "country": "لبنان",
+    "mcc_mnc": "41501",
+    "bands_4g": ["B3", "B7", "B20"],
+    "bands_5g": []
+  },
+  {
+    "name": "touch",
+    "country": "لبنان",
+    "mcc_mnc": "41503",
+    "bands_4g": ["B3", "B7", "B20"],
+    "bands_5g": []
+  },
+  {
+    "name": "Vodafone Egypt",
+    "country": "مصر",
+    "mcc_mnc": "60202",
+    "bands_4g": ["B1", "B3", "B8", "B28"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Orange Egypt",
+    "country": "مصر",
+    "mcc_mnc": "60201",
+    "bands_4g": ["B1", "B3", "B8", "B28"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Etisalat Misr (e& Egypt)",
+    "country": "مصر",
+    "mcc_mnc": "60203",
+    "bands_4g": ["B1", "B3", "B8", "B28"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "WE (Telecom Egypt)",
+    "country": "مصر",
+    "mcc_mnc": "60204",
+    "bands_4g": ["B1", "B3", "B8"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Zain Iraq",
+    "country": "العراق",
+    "mcc_mnc": "41805",
+    "bands_4g": ["B3", "B8", "B20"],
+    "bands_5g": []
+  },
+  {
+    "name": "Asiacell",
+    "country": "العراق",
+    "mcc_mnc": "41820",
+    "bands_4g": ["B3", "B8", "B20"],
+    "bands_5g": []
+  },
+  {
+    "name": "Korek Telecom",
+    "country": "العراق",
+    "mcc_mnc": "41840",
+    "bands_4g": ["B3", "B8"],
+    "bands_5g": []
+  },
+  {
+    "name": "Turkcell",
+    "country": "Türkiye",
+    "mcc_mnc": "28601",
+    "bands_4g": ["B1", "B3", "B7", "B8", "B20"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Vodafone Turkey",
+    "country": "Türkiye",
+    "mcc_mnc": "28602",
+    "bands_4g": ["B1", "B3", "B7", "B8", "B20"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Turk Telekom",
+    "country": "Türkiye",
+    "mcc_mnc": "28603",
+    "bands_4g": ["B1", "B3", "B7", "B8", "B20"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Yemen Mobile",
+    "country": "اليمن",
+    "mcc_mnc": "42104",
+    "bands_4g": ["B3", "B8"],
+    "bands_5g": []
+  },
+  {
+    "name": "MTN Yemen (Y Telecom/Sabafon area)",
+    "country": "اليمن",
+    "mcc_mnc": "42102",
+    "bands_4g": ["B3", "B8"],
+    "bands_5g": []
+  },
+  {
+    "name": "Sudatel (Sudani)",
+    "country": "السودان",
+    "mcc_mnc": "63401",
+    "bands_4g": ["B3", "B8"],
+    "bands_5g": []
+  },
+  {
+    "name": "MTN Sudan",
+    "country": "السودان",
+    "mcc_mnc": "63402",
+    "bands_4g": ["B3", "B8"],
+    "bands_5g": []
+  },
+  {
+    "name": "Zain Sudan",
+    "country": "السودان",
+    "mcc_mnc": "63403",
+    "bands_4g": ["B3", "B8"],
+    "bands_5g": []
+  },
+  {
+    "name": "Maroc Telecom",
+    "country": "المغرب",
+    "mcc_mnc": "60401",
+    "bands_4g": ["B1", "B3", "B8", "B20"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Orange Morocco",
+    "country": "المغرب",
+    "mcc_mnc": "60400",
+    "bands_4g": ["B1", "B3", "B8", "B20"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "inwi",
+    "country": "المغرب",
+    "mcc_mnc": "60402",
+    "bands_4g": ["B1", "B3", "B8"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Djezzy",
+    "country": "الجزائر",
+    "mcc_mnc": "60302",
+    "bands_4g": ["B3", "B8"],
+    "bands_5g": []
+  },
+  {
+    "name": "Mobilis",
+    "country": "الجزائر",
+    "mcc_mnc": "60301",
+    "bands_4g": ["B3", "B8"],
+    "bands_5g": []
+  },
+  {
+    "name": "Ooredoo Algeria",
+    "country": "الجزائر",
+    "mcc_mnc": "60303",
+    "bands_4g": ["B3", "B8"],
+    "bands_5g": []
+  },
+  {
+    "name": "Ooredoo Tunisia",
+    "country": "تونس",
+    "mcc_mnc": "60502",
+    "bands_4g": ["B1", "B3", "B8"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Orange Tunisia",
+    "country": "تونس",
+    "mcc_mnc": "60501",
+    "bands_4g": ["B1", "B3", "B8"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Tunisie Telecom",
+    "country": "تونس",
+    "mcc_mnc": "60500",
+    "bands_4g": ["B1", "B3", "B8"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Libyana",
+    "country": "ليبيا",
+    "mcc_mnc": "60600",
+    "bands_4g": ["B3", "B8"],
+    "bands_5g": []
+  },
+  {
+    "name": "Al-Madar",
+    "country": "ليبيا",
+    "mcc_mnc": "60601",
+    "bands_4g": ["B3", "B8"],
+    "bands_5g": []
+  },
+  {
+    "name": "Jawwal",
+    "country": "فلسطين",
+    "mcc_mnc": "42505",
+    "bands_4g": ["B3", "B8"],
+    "bands_5g": []
+  },
+  {
+    "name": "Ooredoo Palestine (Wataniya)",
+    "country": "فلسطين",
+    "mcc_mnc": "42506",
+    "bands_4g": ["B3", "B8"],
+    "bands_5g": []
+  },
+  {
+    "name": "Syriatel",
+    "country": "سوريا",
+    "mcc_mnc": "41701",
+    "bands_4g": ["B3", "B8"],
+    "bands_5g": []
+  },
+  {
+    "name": "MTN Syria",
+    "country": "سوريا",
+    "mcc_mnc": "41702",
+    "bands_4g": ["B3", "B8"],
+    "bands_5g": []
+  },
+  {
+    "name": "MCI (Hamrahe Avval)",
+    "country": "ایران",
+    "mcc_mnc": "43211",
+    "bands_4g": ["B1", "B3", "B8", "B40"],
+    "bands_5g": []
+  },
+  {
+    "name": "Irancell (MTN)",
+    "country": "ایران",
+    "mcc_mnc": "43235",
+    "bands_4g": ["B1", "B3", "B8", "B40"],
+    "bands_5g": []
+  },
+  {
+    "name": "Jazz (Pakistan)",
+    "country": "پاکستان",
+    "mcc_mnc": "41001",
+    "bands_4g": ["B3", "B5", "B8", "B40"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Zong",
+    "country": "پاکستان",
+    "mcc_mnc": "41004",
+    "bands_4g": ["B3", "B5", "B8", "B40"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Telenor Pakistan",
+    "country": "پاکستان",
+    "mcc_mnc": "41006",
+    "bands_4g": ["B3", "B5", "B8"],
+    "bands_5g": []
+  },
+  {
+    "name": "Afghan Wireless (AWCC)",
+    "country": "افغانستان",
+    "mcc_mnc": "41201",
+    "bands_4g": ["B3", "B8"],
+    "bands_5g": []
+  },
+  {
+    "name": "Roshan",
+    "country": "افغانستان",
+    "mcc_mnc": "41220",
+    "bands_4g": ["B3", "B8"],
+    "bands_5g": []
+  },
+  {
+    "name": "AT&T",
+    "country": "United States",
+    "mcc_mnc": "310410",
+    "bands_4g": ["B2", "B4", "B5", "B12", "B14", "B17", "B29", "B30", "B66"],
+    "bands_5g": ["N5", "N77", "N260"]
+  },
+  {
+    "name": "Verizon",
+    "country": "United States",
+    "mcc_mnc": "311480",
+    "bands_4g": ["B2", "B4", "B5", "B13", "B66"],
+    "bands_5g": ["N2", "N5", "N66", "N77", "N260"]
+  },
+  {
+    "name": "T-Mobile US",
+    "country": "United States",
+    "mcc_mnc": "310260",
+    "bands_4g": ["B2", "B4", "B12", "B66", "B71"],
+    "bands_5g": ["N25", "N41", "N71", "N77", "N260"]
+  },
+  {
+    "name": "Vodafone UK",
+    "country": "United Kingdom",
+    "mcc_mnc": "23415",
+    "bands_4g": ["B1", "B3", "B7", "B8", "B20", "B32"],
+    "bands_5g": ["N28", "N78"]
+  },
+  {
+    "name": "EE",
+    "country": "United Kingdom",
+    "mcc_mnc": "23430",
+    "bands_4g": ["B1", "B3", "B7", "B8", "B20", "B32"],
+    "bands_5g": ["N28", "N78"]
+  },
+  {
+    "name": "O2 UK",
+    "country": "United Kingdom",
+    "mcc_mnc": "23410",
+    "bands_4g": ["B1", "B3", "B7", "B20", "B32"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Three UK",
+    "country": "United Kingdom",
+    "mcc_mnc": "23420",
+    "bands_4g": ["B1", "B3", "B20"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Deutsche Telekom",
+    "country": "Deutschland",
+    "mcc_mnc": "26201",
+    "bands_4g": ["B1", "B3", "B7", "B8", "B20"],
+    "bands_5g": ["N1", "N28", "N78"]
+  },
+  {
+    "name": "Vodafone Germany",
+    "country": "Deutschland",
+    "mcc_mnc": "26202",
+    "bands_4g": ["B1", "B3", "B7", "B8", "B20"],
+    "bands_5g": ["N1", "N78"]
+  },
+  {
+    "name": "O2 Germany (Telefonica)",
+    "country": "Deutschland",
+    "mcc_mnc": "26207",
+    "bands_4g": ["B1", "B3", "B7", "B8", "B20", "B28"],
+    "bands_5g": ["N1", "N78"]
+  },
+  {
+    "name": "Orange France",
+    "country": "France",
+    "mcc_mnc": "20801",
+    "bands_4g": ["B1", "B3", "B7", "B8", "B20"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "SFR",
+    "country": "France",
+    "mcc_mnc": "20810",
+    "bands_4g": ["B1", "B3", "B7", "B8", "B20"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Bouygues Telecom",
+    "country": "France",
+    "mcc_mnc": "20820",
+    "bands_4g": ["B1", "B3", "B7", "B8", "B20"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Free Mobile",
+    "country": "France",
+    "mcc_mnc": "20815",
+    "bands_4g": ["B1", "B3", "B7", "B20", "B28"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "China Mobile",
+    "country": "中国",
+    "mcc_mnc": "46000",
+    "bands_4g": ["B3", "B8", "B34", "B39", "B40", "B41"],
+    "bands_5g": ["N41", "N79"]
+  },
+  {
+    "name": "China Unicom",
+    "country": "中国",
+    "mcc_mnc": "46001",
+    "bands_4g": ["B1", "B3", "B8", "B40"],
+    "bands_5g": ["N41", "N78"]
+  },
+  {
+    "name": "China Telecom",
+    "country": "中国",
+    "mcc_mnc": "46011",
+    "bands_4g": ["B1", "B3", "B41"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "NTT Docomo",
+    "country": "日本",
+    "mcc_mnc": "44010",
+    "bands_4g": ["B1", "B3", "B19", "B21", "B28", "B42"],
+    "bands_5g": ["N77", "N78", "N79", "N257"]
+  },
+  {
+    "name": "SoftBank",
+    "country": "日本",
+    "mcc_mnc": "44020",
+    "bands_4g": ["B1", "B3", "B8", "B11", "B28", "B41"],
+    "bands_5g": ["N77", "N257"]
+  },
+  {
+    "name": "au (KDDI)",
+    "country": "日本",
+    "mcc_mnc": "44051",
+    "bands_4g": ["B1", "B11", "B18", "B26", "B28", "B42"],
+    "bands_5g": ["N77", "N78", "N257"]
+  },
+  {
+    "name": "SK Telecom",
+    "country": "대한민국",
+    "mcc_mnc": "45005",
+    "bands_4g": ["B1", "B3", "B5", "B7", "B8"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "KT",
+    "country": "대한민국",
+    "mcc_mnc": "45002",
+    "bands_4g": ["B1", "B3", "B8"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "LG U+",
+    "country": "대한민국",
+    "mcc_mnc": "45006",
+    "bands_4g": ["B1", "B5", "B7"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Reliance Jio",
+    "country": "भारत",
+    "mcc_mnc": "405857",
+    "bands_4g": ["B3", "B5", "B40"],
+    "bands_5g": ["N28", "N78"]
+  },
+  {
+    "name": "Airtel India",
+    "country": "भारत",
+    "mcc_mnc": "40445",
+    "bands_4g": ["B3", "B5", "B8", "B40"],
+    "bands_5g": ["N28", "N78"]
+  },
+  {
+    "name": "Vodafone Idea (Vi)",
+    "country": "भारत",
+    "mcc_mnc": "40411",
+    "bands_4g": ["B3", "B8", "B40"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "MTN South Africa",
+    "country": "South Africa",
+    "mcc_mnc": "65510",
+    "bands_4g": ["B1", "B3", "B7", "B8", "B40"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Vodacom",
+    "country": "South Africa",
+    "mcc_mnc": "65501",
+    "bands_4g": ["B1", "B3", "B7", "B8", "B40"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Safaricom",
+    "country": "Kenya",
+    "mcc_mnc": "63902",
+    "bands_4g": ["B3", "B7", "B20", "B40"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Airtel Africa (Nigeria)",
+    "country": "Nigeria",
+    "mcc_mnc": "62120",
+    "bands_4g": ["B3", "B7", "B20"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "MTN Nigeria",
+    "country": "Nigeria",
+    "mcc_mnc": "62130",
+    "bands_4g": ["B3", "B7", "B20"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Telcel",
+    "country": "México",
+    "mcc_mnc": "33420",
+    "bands_4g": ["B2", "B4", "B7", "B28", "B66"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Claro Brasil",
+    "country": "Brasil",
+    "mcc_mnc": "72405",
+    "bands_4g": ["B3", "B7", "B28"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Vivo (Telefonica Brasil)",
+    "country": "Brasil",
+    "mcc_mnc": "72406",
+    "bands_4g": ["B3", "B7", "B28"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "TIM Brasil",
+    "country": "Brasil",
+    "mcc_mnc": "72402",
+    "bands_4g": ["B3", "B7", "B28"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Movistar Spain",
+    "country": "España",
+    "mcc_mnc": "21407",
+    "bands_4g": ["B1", "B3", "B7", "B20"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Vodafone Spain",
+    "country": "España",
+    "mcc_mnc": "21401",
+    "bands_4g": ["B1", "B3", "B7", "B20"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Orange Spain",
+    "country": "España",
+    "mcc_mnc": "21403",
+    "bands_4g": ["B1", "B3", "B7", "B20"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "TIM Italia",
+    "country": "Italia",
+    "mcc_mnc": "22201",
+    "bands_4g": ["B1", "B3", "B7", "B20"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Vodafone Italia",
+    "country": "Italia",
+    "mcc_mnc": "22210",
+    "bands_4g": ["B1", "B3", "B7", "B20"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "WindTre",
+    "country": "Italia",
+    "mcc_mnc": "22288",
+    "bands_4g": ["B1", "B3", "B7", "B20"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "MTS Russia",
+    "country": "Россия",
+    "mcc_mnc": "25001",
+    "bands_4g": ["B3", "B7", "B20"],
+    "bands_5g": []
+  },
+  {
+    "name": "MegaFon",
+    "country": "Россия",
+    "mcc_mnc": "25002",
+    "bands_4g": ["B3", "B7", "B20"],
+    "bands_5g": []
+  },
+  {
+    "name": "Beeline Russia",
+    "country": "Россия",
+    "mcc_mnc": "25099",
+    "bands_4g": ["B3", "B7", "B20"],
+    "bands_5g": []
+  },
+  {
+    "name": "Telstra",
+    "country": "Australia",
+    "mcc_mnc": "50501",
+    "bands_4g": ["B1", "B3", "B7", "B28", "B40"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Optus",
+    "country": "Australia",
+    "mcc_mnc": "50502",
+    "bands_4g": ["B1", "B3", "B7", "B28", "B40"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Vodafone Australia (TPG)",
+    "country": "Australia",
+    "mcc_mnc": "50503",
+    "bands_4g": ["B1", "B3", "B28", "B40"],
+    "bands_5g": ["N78"]
+  },
+  {
+    "name": "Rogers",
+    "country": "Canada",
+    "mcc_mnc": "302720",
+    "bands_4g": ["B4", "B7", "B12", "B66"],
+    "bands_5g": ["N66", "N77"]
+  },
+  {
+    "name": "Bell Canada",
+    "country": "Canada",
+    "mcc_mnc": "302610",
+    "bands_4g": ["B4", "B7", "B12", "B66"],
+    "bands_5g": ["N66", "N77"]
+  },
+  {
+    "name": "Telus",
+    "country": "Canada",
+    "mcc_mnc": "302220",
+    "bands_4g": ["B4", "B7", "B12", "B66"],
+    "bands_5g": ["N66", "N77"]
+  }
+]
