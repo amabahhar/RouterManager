@@ -1,0 +1,897 @@
+{
+  "version": 20,
+  "games": [
+    {
+      "id": "pubg-mobile",
+      "name": "PUBG Mobile",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "servers": [
+        {
+          "name": "🇪🇺 Europe ⚠️",
+          "region": "EU",
+          "host": "162.62.115.42",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        }
+      ]
+    },
+    {
+      "id": "fortnite",
+      "name": "Fortnite",
+      "platforms": [
+        "PC",
+        "PS",
+        "Xbox",
+        "Switch",
+        "Android",
+        "iOS"
+      ],
+      "servers": [
+        {
+          "name": "🇧🇭 Bahrain رسمي",
+          "region": "ME",
+          "host": "ping-bah.ds.on.epicgames.com",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch",
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "diagnostic",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🇮🇳 Mumbai رسمي",
+          "region": "ASIA",
+          "host": "ping-mum.ds.on.epicgames.com",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch",
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "diagnostic",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🇩🇪 Germany رسمي",
+          "region": "EU",
+          "host": "ping-de.ds.on.epicgames.com",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch",
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "diagnostic",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🇫🇷 France رسمي",
+          "region": "EU",
+          "host": "ping-fr.ds.on.epicgames.com",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch",
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "diagnostic",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🇬🇧 London رسمي",
+          "region": "EU",
+          "host": "ping-gb.ds.on.epicgames.com",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch",
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "diagnostic",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌏 Asia رسمي",
+          "region": "ASIA",
+          "host": "ping-asia.ds.on.epicgames.com",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch",
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "diagnostic",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌎 NA East رسمي",
+          "region": "NA",
+          "host": "ping-nae.ds.on.epicgames.com",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch",
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "diagnostic",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌎 NA Central رسمي",
+          "region": "NA",
+          "host": "ping-nac.ds.on.epicgames.com",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch",
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "diagnostic",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌎 NA West رسمي",
+          "region": "NA",
+          "host": "ping-naw.ds.on.epicgames.com",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch",
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "diagnostic",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🇯🇵 Tokyo رسمي",
+          "region": "ASIA",
+          "host": "ping-tok.ds.on.epicgames.com",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch",
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "diagnostic",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🇦🇺 Sydney رسمي",
+          "region": "OCE",
+          "host": "ping-syd.ds.on.epicgames.com",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch",
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "diagnostic",
+          "isMatchServerConfirmed": false
+        }
+      ]
+    },
+    {
+      "id": "ea-fc",
+      "name": "EA SPORTS FC",
+      "platforms": [
+        "PC",
+        "PS",
+        "Xbox"
+      ],
+      "servers": [
+        {
+          "name": "🌐 EA Online Service ⚠️",
+          "region": "UNKNOWN",
+          "host": "easo.ea.com",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox"
+          ],
+          "locationOnly": false,
+          "serverType": "service",
+          "isMatchServerConfirmed": false
+        }
+      ]
+    },
+    {
+      "id": "gta-online",
+      "name": "GTA Online",
+      "platforms": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "servers": [
+        {
+          "name": "🌐 Rockstar Cloud ⚠️",
+          "region": "GLOBAL",
+          "host": "prod.cloud.rockstargames.com",
+          "platforms": [
+            "PC",
+            "PS4",
+            "PS5",
+            "Xbox One",
+            "Xbox Series"
+          ],
+          "locationOnly": false,
+          "serverType": "service",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌐 Rockstar Cloud Locator ⚠️",
+          "region": "GLOBAL",
+          "host": "prod-locator-cloud.rockstargames.com",
+          "platforms": [
+            "PC",
+            "PS4",
+            "PS5",
+            "Xbox One",
+            "Xbox Series"
+          ],
+          "locationOnly": false,
+          "serverType": "service",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌐 Rockstar Patches ⚠️",
+          "region": "GLOBAL",
+          "host": "patches.rockstargames.com",
+          "platforms": [
+            "PC",
+            "PS4",
+            "PS5",
+            "Xbox One",
+            "Xbox Series"
+          ],
+          "locationOnly": false,
+          "serverType": "service",
+          "isMatchServerConfirmed": false,
+          "lastPingStatus": "failed_latest_historical_success"
+        },
+        {
+          "name": "🌐 Rockstar Sign-in ⚠️",
+          "region": "GLOBAL",
+          "host": "signin.rockstargames.com",
+          "platforms": [
+            "PC",
+            "PS4",
+            "PS5",
+            "Xbox One",
+            "Xbox Series"
+          ],
+          "locationOnly": false,
+          "serverType": "service",
+          "isMatchServerConfirmed": false
+        }
+      ]
+    },
+    {
+      "id": "overwatch-2",
+      "name": "Overwatch 2",
+      "platforms": [
+        "PC",
+        "PS",
+        "Xbox",
+        "Switch"
+      ],
+      "servers": [
+        {
+          "name": "🇪🇺 Blizzard diagnostic ⚠️",
+          "region": "EU",
+          "host": "185.60.112.157",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch"
+          ],
+          "locationOnly": false,
+          "serverType": "diagnostic_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌎 Blizzard diagnostic ⚠️",
+          "region": "NA",
+          "host": "24.105.62.129",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch"
+          ],
+          "locationOnly": false,
+          "serverType": "diagnostic_candidate",
+          "isMatchServerConfirmed": false
+        }
+      ]
+    },
+    {
+      "id": "apex-legends",
+      "name": "Apex Legends",
+      "platforms": [
+        "PC",
+        "PS",
+        "Xbox",
+        "Switch"
+      ],
+      "servers": [
+        {
+          "name": "🌐 Community candidate ⚠️",
+          "region": "ASIA",
+          "host": "103.10.124.116",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌐 Community candidate ⚠️",
+          "region": "ASIA",
+          "host": "103.10.124.117",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌐 Community candidate ⚠️",
+          "region": "ASIA",
+          "host": "103.10.124.118",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌐 Community candidate ⚠️",
+          "region": "ASIA",
+          "host": "103.10.124.119",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false,
+          "packetLossPercent": 33
+        },
+        {
+          "name": "🌐 Community candidate ⚠️",
+          "region": "ASIA",
+          "host": "103.10.124.120",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌐 Community candidate ⚠️",
+          "region": "ASIA",
+          "host": "103.10.124.121",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌐 Community candidate ⚠️",
+          "region": "ASIA",
+          "host": "35.185.189.104",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌐 Community candidate ⚠️",
+          "region": "ASIA",
+          "host": "69.88.135.37",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌐 Community candidate ⚠️",
+          "region": "ASIA",
+          "host": "104.199.182.138",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌐 Community candidate ⚠️",
+          "region": "EU",
+          "host": "104.155.80.155",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌐 Community candidate ⚠️",
+          "region": "EU",
+          "host": "130.211.51.110",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌐 Community candidate ⚠️",
+          "region": "NA",
+          "host": "104.196.43.45",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌐 Community candidate ⚠️",
+          "region": "NA",
+          "host": "35.196.104.104",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌐 Community candidate ⚠️",
+          "region": "NA",
+          "host": "104.196.8.33",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        }
+      ]
+    },
+    {
+      "id": "cod-mobile",
+      "name": "Call of Duty Mobile",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "servers": [
+        {
+          "name": "🇩🇪 Frankfurt ⚠️",
+          "region": "EU",
+          "host": "43.157.16.76",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🇬🇧 London ⚠️",
+          "region": "EU",
+          "host": "193.118.33.58",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🇨🇦 Toronto ⚠️",
+          "region": "NA",
+          "host": "128.1.253.200",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🇺🇸 Ashburn ⚠️",
+          "region": "NA",
+          "host": "43.166.175.69",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🇺🇸 Chicago ⚠️",
+          "region": "NA",
+          "host": "98.98.97.38",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🇮🇳 Mumbai ⚠️",
+          "region": "ASIA",
+          "host": "156.59.186.17",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🇳🇬 Lagos ⚠️",
+          "region": "AFRICA",
+          "host": "104.166.145.98",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🇺🇸 Miami ⚠️",
+          "region": "NA",
+          "host": "128.14.17.254",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🇦🇪 Dubai ⚠️",
+          "region": "ME",
+          "host": "128.14.7.221",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🇺🇸 Dallas ⚠️",
+          "region": "NA",
+          "host": "98.96.204.214",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🇲🇽 Mexico ⚠️",
+          "region": "NA",
+          "host": "98.98.21.86",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🇿🇦 Johannesburg ⚠️",
+          "region": "AFRICA",
+          "host": "107.155.35.9",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🇨🇱 Santiago ⚠️",
+          "region": "SA",
+          "host": "98.98.9.182",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🇧🇷 Sao Paulo ⚠️",
+          "region": "SA",
+          "host": "43.135.198.143",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🇯🇵 Tokyo ⚠️",
+          "region": "ASIA",
+          "host": "43.167.240.93",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🇦🇺 Melbourne ⚠️",
+          "region": "ASIA",
+          "host": "199.182.233.121",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "locationOnly": false,
+          "serverType": "unverified_candidate",
+          "isMatchServerConfirmed": false
+        }
+      ]
+    },
+    {
+      "id": "rocket-league",
+      "name": "Rocket League",
+      "platforms": [
+        "PC",
+        "PS",
+        "Xbox",
+        "Switch"
+      ],
+      "servers": [
+        {
+          "name": "🌐 config.psynet.gg ⚠️",
+          "region": "GLOBAL",
+          "host": "config.psynet.gg",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch"
+          ],
+          "locationOnly": false,
+          "serverType": "service",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌐 psyonix.com ⚠️",
+          "region": "GLOBAL",
+          "host": "psyonix.com",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch"
+          ],
+          "locationOnly": false,
+          "serverType": "service",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌐 rl-cdn.psyonix.com ⚠️",
+          "region": "GLOBAL",
+          "host": "rl-cdn.psyonix.com",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch"
+          ],
+          "locationOnly": false,
+          "serverType": "service",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌐 rocketleague.com ⚠️",
+          "region": "GLOBAL",
+          "host": "rocketleague.com",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox",
+            "Switch"
+          ],
+          "locationOnly": false,
+          "serverType": "service",
+          "isMatchServerConfirmed": false
+        }
+      ]
+    },
+    {
+      "id": "cod-warzone",
+      "name": "Call of Duty: Warzone",
+      "platforms": [
+        "PC",
+        "PS",
+        "Xbox"
+      ],
+      "servers": [
+        {
+          "name": "🌐 support.activision.com ⚠️",
+          "region": "GLOBAL",
+          "host": "support.activision.com",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox"
+          ],
+          "locationOnly": false,
+          "serverType": "service",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌐 www.callofduty.com ⚠️",
+          "region": "GLOBAL",
+          "host": "www.callofduty.com",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox"
+          ],
+          "locationOnly": false,
+          "serverType": "service",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌐 profile.callofduty.com ⚠️",
+          "region": "GLOBAL",
+          "host": "profile.callofduty.com",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox"
+          ],
+          "locationOnly": false,
+          "serverType": "service",
+          "isMatchServerConfirmed": false
+        },
+        {
+          "name": "🌐 www.activision.com ⚠️",
+          "region": "GLOBAL",
+          "host": "www.activision.com",
+          "platforms": [
+            "PC",
+            "PS",
+            "Xbox"
+          ],
+          "locationOnly": false,
+          "serverType": "service",
+          "isMatchServerConfirmed": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+[
+  {
+    "name": "PUBG: BATTLEGROUNDS",
+    "icon": "🎯",
+    "platforms": [
+      { "platform": "PC", "rules": [
+        { "protocol": "UDP", "startPort": 7000, "endPort": 7999 },
+        { "protocol": "TCP", "startPort": 7000, "endPort": 7999 },
+        { "protocol": "TCP", "startPort": 8000, "endPort": 8899 },
+        { "protocol": "UDP", "startPort": 8000, "endPort": 8899 }
+      ]},
+      { "platform": "PS4/PS5", "rules": [
+        { "protocol": "TCP", "startPort": 3478, "endPort": 3480 },
+        { "protocol": "UDP", "startPort": 3478, "endPort": 3479 }
+      ]},
+      { "platform": "Xbox", "rules": [
+        { "protocol": "UDP", "startPort": 88, "endPort": 88 },
+        { "protocol": "UDP", "startPort": 3074, "endPort": 3074 },
+        { "protocol": "TCP", "startPort": 3074, "endPort": 3074 }
+      ]}
+    ]
+  },
+  {
+    "name": "Fortnite",
+    "icon": "🏝️",
+    "platforms": [
+      { "platform": "PC", "rules": [
+        { "protocol": "TCP", "startPort": 5222, "endPort": 5222 },
+        { "protocol": "UDP", "startPort": 5222, "endPort": 5222 },
+        { "protocol": "UDP", "startPort": 5795, "endPort": 5847 }
+      ]},
+      { "platform": "PS4/PS5", "rules": [
+        { "protocol": "TCP", "startPort": 3478, "endPort": 3480 },
+        { "protocol": "UDP", "startPort": 3478, "endPort": 3479 },
+        { "protocol": "UDP", "startPort": 5795, "endPort": 5847 }
+      ]},
+      { "platform": "Xbox", "rules": [
+        { "protocol": "UDP", "startPort": 88, "endPort": 88 },
+        { "protocol": "UDP", "startPort": 3074, "endPort": 3074 },
+        { "protocol": "TCP", "startPort": 3074, "endPort": 3074 },
+        { "protocol": "UDP", "startPort": 5795, "endPort": 5847 }
+      ]}
+    ]
+  },
+  {
+    "name": "Call of Duty: Warzone / MW",
+    "icon": "🔫",
+    "platforms": [
+      { "platform": "PC", "rules": [
+        { "protocol": "UDP", "startPort": 3074, "endPort": 3074 },
+        { "protocol": "TCP", "startPort": 3074, "endPort": 3074 },
+        { "protocol": "UDP", "startPort": 27014, "endPort": 27050 },
+        { "protocol": "TCP", "startPort": 27014, "endPort": 27050 }
+      ]},
+      { "platform": "PS4/PS5", "rules": [
+        { "protocol": "TCP", "startPort": 3478, "endPort": 3480 },
+        { "protocol": "UDP", "startPort": 3478, "endPort": 3479 }
+      ]},
+      { "platform": "Xbox", "rules": [
+        { "protocol": "UDP", "startPort": 88, "endPort": 88 },
+        { "protocol": "UDP", "startPort": 3074, "endPort": 3074 },
+        { "protocol": "TCP", "startPort": 3074, "endPort": 3074 }
+      ]}
+    ]
+  },
+  {
+    "name": "Minecraft: Java Edition",
+    "icon": "⛏️",
+    "platforms": [
+      { "platform": "PC (Java)", "rules": [
+        { "protocol": "TCP", "startPort": 25565, "endPort": 25565 }
+      ]}
+    ]
+  },
+  {
+    "name": "Minecraft: Bedrock Edition",
+    "icon": "⛏️",
+    "platforms": [
+      { "platform": "PC/Console/Mobile (Bedrock)", "rules": [
+        { "protocol": "UDP", "startPort": 19132, "endPort": 19133 }
+      ]}
+    ]
+  },
+  {
+    "name": "GTA V / GTA Online",
+    "icon": "🚗",
+    "platforms": [
+      { "platform": "PC", "rules": [
+        { "protocol": "TCP", "startPort": 80, "endPort": 80 },
+        { "protocol": "TCP", "startPort": 6672, "endPort": 6672 },
+        { "protocol": "UDP", "startPort": 6672, "endPort": 6672 },
+        { "protocol": "TCP", "startPort": 78, "endPort": 78 }
+      ]},
+      { "platform": "PS4/PS5", "rules": [
+        { "protocol": "TCP", "startPort": 80, "endPort": 80 },
+        { "protocol": "TCP", "startPort": 6672, "endPort": 6672 },
+        { "protocol": "UDP", "startPort": 3074, "endPort": 3074 },
+        { "protocol": "UDP", "startPort": 6672, "endPort": 6672 }
+      ]},
+      { "platform": "Xbox", "rules": [
+        { "protocol": "TCP", "startPort": 80, "endPort": 80 },
+        { "protocol": "TCP", "startPort": 3074, "endPort": 3074 },
+        { "protocol": "UDP", "startPort": 88, "endPort": 88 },
+        { "protocol": "UDP", "startPort": 3074, "endPort": 3074 }
+      ]}
+    ]
+  },
+  {
+    "name": "Rocket League",
+    "icon": "⚽",
+    "platforms": [
+      { "platform": "الكل (PC/PS/Xbox)", "rules": [
+        { "protocol": "UDP", "startPort": 7000, "endPort": 9000 }
+      ]}
+    ]
+  },
+  {
+    "name": "Apex Legends",
+    "icon": "🪂",
+    "platforms": [
+      { "platform": "PC", "rules": [
+        { "protocol": "UDP", "startPort": 37015, "endPort": 37020 }
+      ]},
+      { "platform": "PS4/PS5 / Xbox", "rules": [
+        { "protocol": "UDP", "startPort": 1024, "endPort": 1124 }
+      ]}
+    ]
+  },
+  {
+    "name": "Rainbow Six Siege",
+    "icon": "🛡️",
+    "platforms": [
+      { "platform": "الكل (PC/PS/Xbox)", "rules": [
+        { "protocol": "TCP", "startPort": 6015, "endPort": 6016 },
+        { "protocol": "UDP", "startPort": 6015, "endPort": 6016 },
+        { "protocol": "UDP", "startPort": 10000, "endPort": 10099 }
+      ]}
+    ]
+  },
+  {
+    "name": "EA FC / FIFA",
+    "icon": "⚽",
+    "platforms": [
+      { "platform": "الكل (PC/PS/Xbox)", "rules": [
+        { "protocol": "TCP", "startPort": 80, "endPort": 80 },
+        { "protocol": "TCP", "startPort": 443, "endPort": 443 },
+        { "protocol": "UDP", "startPort": 1000, "endPort": 9000 }
+      ]}
+    ]
+  },
+  {
+    "name": "Counter-Strike 2",
+    "icon": "🔫",
+    "platforms": [
+      { "platform": "PC", "rules": [
+        { "protocol": "UDP", "startPort": 27015, "endPort": 27030 },
+        { "protocol": "TCP", "startPort": 27015, "endPort": 27030 },
+        { "protocol": "UDP", "startPort": 27036, "endPort": 27037 },
+        { "protocol": "TCP", "startPort": 27036, "endPort": 27037 }
+      ]}
+    ]
+  },
+  {
+    "name": "Among Us",
+    "icon": "👾",
+    "platforms": [
+      { "platform": "الكل", "rules": [
+        { "protocol": "UDP", "startPort": 22023, "endPort": 22023 }
+      ]}
+    ]
+  }
+]
